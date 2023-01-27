@@ -32,7 +32,8 @@ result of my_div: None
 4
 Exception: list index out of range
 result of print_list: None
-guillaume@ubuntu:~/0x05$ ./101-main.py 2> /dev/null
+
+./101-main.py 2> /dev/null
 result of my_div: 5.0
 result of my_div: None
 1
